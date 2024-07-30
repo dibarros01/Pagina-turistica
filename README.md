@@ -18,7 +18,7 @@ Curso de Full Stack, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Pa" src=".github/Horror Game Landing Page.jpg" width="100%">
+  <img alt="Pa" src=".github/Thumbnail.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,11 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Landing Page - "Horror Game" tem como objetivo a divulgação de um jogo de terror.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK] https://www.figma.com/community/file/1216014509044898198/horror-game-lp. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+A Landing Page - "Página Turística" tem como objetivo a divulgação de uma cidade.
 
 ## :memo: Licença
 
